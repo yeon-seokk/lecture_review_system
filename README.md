@@ -4,10 +4,10 @@
 ---
 
 ## tech stack
-**language**: Java 17
-**Framework**: Spring Boot 3.5
-**Database**: H2 Database, MySQL(전환 예정)
-**AOP**: Aspect Oriented Programming을 활용한 실행 로그 기록
+- **language**: Java 17
+- **Framework**: Spring Boot 3.5
+- **Database**: H2 Database, MySQL(전환 예정)
+- **AOP**: Aspect Oriented Programming을 활용한 실행 로그 기록
 
 ---
 
